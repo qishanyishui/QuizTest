@@ -1,0 +1,6 @@
+"UID","UNAME","UPASSWORD","ULEVEL","UNUMBER"
+"2","front","123","2","141785"
+"36","zhangsan","123","2","1827523"
+"37","lisi","123","2","1827523"
+"39","admin","123","1","admin"
+"103","admin","admin2","1","admin"

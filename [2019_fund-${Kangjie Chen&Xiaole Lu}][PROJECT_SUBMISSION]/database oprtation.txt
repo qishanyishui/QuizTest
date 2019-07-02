@@ -1,0 +1,15 @@
+create table student(uid bigint auto_increment, uname varchar(50), upassword varchar(30),ulevel int(11),unumber varchar(30));
+create table STUDENTGRADE(sid bigint auto_increment,uid bigint,sgrade int(11),stotal int(11));
+create table QUESTION(qid bigint auto_increment, qcontent varchar(255),qtopics varchar(100),qdifficulty int(11),qtype int(11));
+create table MCQChoice(mid bigint auto_increment, mchoice varchar(100),mvalid boolean,qid bigint);
+create table OpenQuestion(oqid bigint auto_increment,oqtext varchar(4000),qid bigint);
+create table ANSWER(aid bigint auto_increment,qid bigint,atext varchar(255));
+create table QUIZ(id bigint auto_increment, name varchar(255));
+insert into student (uname,upassword,ulevel) values ('admin','123',1);
+insert into student (uname,upassword,ulevel,unumber) values ('front','123',2,141785);
+INSERT INTO ANSWER ( SELECT  * FROM  CSVREAD('C:\Users\dell\Desktop\QuizTest\QuizTest\sql\answer.txt ')) ;
+INSERT INTO QUIZ ( SELECT  * FROM  CSVREAD('C:\Users\dell\Desktop\QuizTest\QuizTest\sql\quiz.txt ')) ;
+INSERT INTO QUESTION ( SELECT  * FROM  CSVREAD('C:\Users\dell\Desktop\QuizTest\QuizTest\sql\question.txt ')) ;
+INSERT INTO OpenQuestion ( SELECT  * FROM  CSVREAD('C:\Users\dell\Desktop\QuizTest\QuizTest\sql\openquestion.txt ')) ;
+INSERT INTO MCQChoice ( SELECT  * FROM  CSVREAD('D:C:\Users\dell\Desktop\QuizTest\QuizTest\sql\mcqchoice.txt ')) ;
+INSERT INTO STUDENTGRADE ( SELECT  * FROM  CSVREAD('C:\Users\dell\Desktop\QuizTest\QuizTest\sql\studentgrade.txt ')) ;

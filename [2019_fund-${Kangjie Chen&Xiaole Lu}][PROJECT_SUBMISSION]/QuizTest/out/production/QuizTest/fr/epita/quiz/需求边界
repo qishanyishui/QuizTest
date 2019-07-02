@@ -1,0 +1,18 @@
+
+1.表结构设计和VO对象
+student  学生
+question  问题
+MCQChoice 选择项
+MCQQuestion
+MCQAnswer
+answer  答案解析
+quiz  测试
+
+2.连接数据库
+3.GUI界面设计
+4.PDF导出结果数据
+
+
+需求边界：
+我的对这个项目的理解是里面没有要求有服务器端  说明只存在单个学生使用
+只做前面两种试题类型

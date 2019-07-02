@@ -1,0 +1,73 @@
+1.Android是由下面哪个公司领导来维护和持续开发的（  ）。
+A、Lenovo
+B、Microsoft
+C、Sun
+D、Google
+*****
+答案:D
+2.被称为“Android之父”的是（ ）。
+A、Andy Rubin
+B、Bill Gates
+C、Steve Jobs
+D、Tim Cook
+*****
+答案:A
+3.下面哪一项不是移动操作系统（ ）。
+A、Windows Mobile / Phone
+B、Adobe
+C、Android
+D、iOS
+*****
+答案:B
+4.下面描述错误的是（ ）。
+A、Windows Mobile / Phone是不开放源代码的，Windows Mobile / Phone使用C#和C++作为应用的开发语言。
+B、iOS是不开源的，iOS使用Objective-C作为应用的开发语言。
+C、Symbian是不开源的，Symbian使用C++作为应用的开发语言。
+D、Android使用Java作为主要的应用开发语言，在需要更改Android的底层功能时，需要使用C或C++。
+*****
+答案:C
+5.下面选项中，哪一项是Android的四大组件之一（ ）。
+A、ListView
+B、Activity
+C、Intent
+D、Bundle
+*****
+答案:B
+6.下面关于Android说法错误的是（  ）。
+A、Activity是Android的四大组件之一。
+B、Activity在实现中通常作为一个Java类出现。
+C、每一个Android应用都必须要有一个叫做“MainActivity”的入口Activity。
+D、当一个Activity启动另一个Activity时，就需要使用到Intent，它起到媒介的作用。
+*****
+答案:C
+7.下面说法正确的是（ ）。
+A、Bundle类与Map不一样，它不是一个key-value类型。
+B、在onCreate()方法中，可以不调用父类的同名方法。
+C、onCreate()方法是具有参数的，也有返回值。
+D、在四大组件之间传递数据时，Bundle常被用来封装数据。
+*****
+答案:D
+8.以下哪一个是合法的标示符（ ）。
+A、double
+B、3x$
+C、str@
+D、exam2e_
+*****
+答案:D
+9.表达式(11 + 3 * 8) / 4 % 3的值是（ ）。
+A、31
+B、2
+C、1
+D、0
+*****
+答案:B
+10.x和y是整形的变量，值分别为16和5，则x/y和（double）x/y值分别是（ ）。
+A、1和3.2
+B、3.2和1
+C、3和3.2
+D、3.2和3
+*****
+答案:C
+#####
+
+

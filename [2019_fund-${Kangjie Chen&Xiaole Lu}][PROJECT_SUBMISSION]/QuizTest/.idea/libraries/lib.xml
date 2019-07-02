@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/freemarker-2.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/h2-1.4.197.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/iText-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/core-renderer支持中文换行.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/iTextAsian.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

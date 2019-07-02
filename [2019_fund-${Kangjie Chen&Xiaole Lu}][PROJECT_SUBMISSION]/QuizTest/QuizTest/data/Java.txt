@@ -1,0 +1,32 @@
+1. Which company developed the Java language?（ ）。
+A、Oracle
+B、Sun
+C、Adobe
+D、Microsoft
+*****
+answer:B
+2.The extension name of the Java source code file is（   ）
+A、txt
+B、class
+C、java
+D、doc
+*****
+answer:C
+3.Are the following () legitimate identifiers?
+A、12class
+B、void
+C、-5
+D、_blank
+*****
+answer:D
+4.Known: print () function is a class of constant member functions, it has no return value, in the following representations, is correct.（   ）
+A)void print()const；
+B)const void print()；
+C)void const print()：
+D)void print(const)；
+*****
+answer:A
+5.What is an Iterator in Java?  Please write your answer.
+*****
+The Iterator interface provides a number of methods that are able to iterate over any Collection.
+#####

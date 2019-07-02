@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="core-renderer支持中文换行">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuizTest/lib/core-renderer支持中文换行.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

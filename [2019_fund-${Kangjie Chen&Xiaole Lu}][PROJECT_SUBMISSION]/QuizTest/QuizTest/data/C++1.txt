@@ -1,0 +1,36 @@
+1.In C++, the inheritance relationship between classes has£¨   £©
+A)Reflexivity
+B)Symmetry
+C)Transitivity
+D)Antisymmetry
+*****
+answer:C
+6.Which of the following is illegal?
+int a[3]={0,1,2,3}
+int a[]={0,1,2}
+int a[3]={0,1,2}
+int a[3]={0}
+*****
+answer:A
+3.Encapsulation in C++ is achieved by means of(    )
+A)enumeration
+B)class
+C)arrays
+D)function
+*****
+answer:B
+C++ language evolved gradually from the early C language. Compared with C language, its greatest improvement in solving problems is:
+A)Process-oriented
+B)Object-oriented
+C)Security
+D)Reusability
+*****
+answer:B
+What is an Iterator in C++? 
+*****
+Each C++ Collection contains the iterator method that returns an Iterator instance. 
+#####
+5.What is an Iterator in C++?  Please write your answer.
+*****
+Each C++ Collection contains the iterator method that returns an Iterator instance. Iterators are capable of removing elements from the underlying collectionduring the iteration.
+#####

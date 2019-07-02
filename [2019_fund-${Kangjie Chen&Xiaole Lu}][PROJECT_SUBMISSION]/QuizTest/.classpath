@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="QuizTest/src"/>
+	<classpathentry kind="src" path="QuizTest/tests"/>
+	<classpathentry kind="lib" path="QuizTest/lib/core-renderer支持中文换行.jar"/>
+	<classpathentry kind="lib" path="QuizTest/lib/freemarker-2.3.8.jar"/>
+	<classpathentry kind="lib" path="QuizTest/lib/h2-1.4.197.jar"/>
+	<classpathentry kind="lib" path="QuizTest/lib/iText-2.0.8.jar"/>
+	<classpathentry kind="lib" path="QuizTest/lib/iTextAsian.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="QuizTest/out/production/QuizTest"/>
+</classpath>

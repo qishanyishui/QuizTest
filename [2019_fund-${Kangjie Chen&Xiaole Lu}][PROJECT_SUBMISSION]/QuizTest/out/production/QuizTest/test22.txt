@@ -1,0 +1,71 @@
+1. Java语言是哪个公司开发的（	）。
+A、Oracle
+B、Sun
+C、Adobe
+D、Microsoft
+*****
+答案：B
+2. 下列说法正确的是（ ）。
+A、Java程序中的main方法必须写到类里面。
+B、Java程序中可以有多个main方法。
+C、Java程序的类名必须与文件名一致。
+D、Java程序的main方法里如果只有一条语句，可以不用{}括起来。
+*****
+答案：A
+3. Java源代码文件的拓展名是（ ）。
+A、txt
+B、class
+C、java
+D、doc
+*****
+答案：C
+4. 从控制台显示的消息语句正确的是（ ）。
+A、System.out.println(我是一名程序员);
+B、System.Out.println(“我是一名程序员”);
+C、system.out.println(“我是一名程序员”);
+D、System.out.println(“我是一名程序员”);
+*****
+答案：D
+5. 下列属于是java中正确注释的是（ ）。
+A、/这是注释
+B、//这是注释
+C、/**⋯*/这是注释
+D、/*⋯*/这是注释
+*****
+答案：B
+6. 下面哪一项不是Java体系中的一种（ ）。
+A、Java ME（Java Micro Edition）
+B、Java RE（Java Runtime Edition）
+C、Java EE（Java Enterprise Edition）
+D、Java SE（Java Standard Edition）
+*****
+答案：B
+7.下列（ ）是合法的标识符？
+A、12class
+B、void
+C、-5
+D、_blank
+*****
+答案：D
+8.下列（ ）不是Java中的保留字？
+A、if
+B、sizeof
+C、private
+D、null
+*****
+答案：B
+9.下列（ ）不是合法的标识符？
+A、$million
+B、_$million
+C、2$_million
+D、$2_million
+*****
+答案：C
+10.下列选项中，（ ）不属于Java语言的基本数据类型？
+A、整数型
+B、数组
+C、浮点型
+D、字符型
+*****
+答案：B
+#####

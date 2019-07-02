@@ -1,0 +1,15 @@
+First:Put the QuizTest project with the path:C:\Users\dell\Desktop\QuizTest
+
+Initialize your database
+
+url:jdbc:h2:~/test
+username:sa
+password:
+
+Second:Use the contents of another txt file which named "database operation" to create and enter some information on the H2 page.
+
+Third:Double click the "javadoc.jar" to run the program.
+
+Fourth:You can use username:front and password:123 and select "student" to take the exam.
+
+You can use username:admin and password:123 and select "admin" to manage the database. 

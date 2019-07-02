@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e71e7bff-26f4-4c31-94c4-ef7838be9d55" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testh2" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/LoginFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2314#2315#0" expanded="true" />
+                <element signature="e#2350#2351#0" expanded="true" />
+                <element signature="e#2417#2418#0" expanded="true" />
+                <element signature="e#2447#2448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/commands.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sql/test.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/openquestion.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/question.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/quiz.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jtable_user</find>
+      <find>userinfo</find>
+      <find>table_user_head</find>
+      <find>dtm</find>
+      <find>insertTest</find>
+      <find>开始计时</find>
+      <find>jp_test_top2</find>
+      <find>jp_test_top</find>
+      <find>题目信息</find>
+      <find>dtm_t</find>
+      <find>delUser</find>
+      <find>checkBox</find>
+      <find>name</find>
+      <find>学号</find>
+      <find>grade</find>
+      <find>您共答对</find>
+      <find>number</find>
+      <find>problem</find>
+      <find>DB_QUESTION_QUERY_BYNAME</find>
+      <find>db.question.query.byName</find>
+      <find>DB_MCQCHOICE_QUERY_BYQID</find>
+      <find>db.mcqchoice.query.byQid</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/PDFReport.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/TestConnection.java" />
+        <option value="$PROJECT_DIR$/tests/fr/epita/quiz/tests/TestConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Difficulty.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/exception/UpdateFailedException.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/exception/DeleteFailedException.java" />
+        <option value="$PROJECT_DIR$/tests/fr/epita/quiz/tests/TestDatabase.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/TestDatabase.java" />
+        <option value="$PROJECT_DIR$/tests/fr/epita/quiz/tests/TestQuizJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Quiz.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/User.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQQuestionChoice.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/QuizJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConnectionUtil.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/UserJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/StudentGrade.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/MCQQuestionChoiceJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQChoice.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQAnswer.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/OpenQuestion.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQQuestion.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQQuestionAll.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/OpenQuestionAll.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Student.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConfigurationService.java" />
+        <option value="$PROJECT_DIR$/src/test11.txt" />
+        <option value="$PROJECT_DIR$/src/Java.txt" />
+        <option value="$PROJECT_DIR$/src/C++.txt" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/util/PDFReport.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Question.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Answer.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/MCQQuestionJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/OpenQuestionJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/AdminFrame.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/StudentJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/OpenQuestionInfo.java" />
+        <option value="$PROJECT_DIR$/data/C++.txt" />
+        <option value="$PROJECT_DIR$/data/Java.txt" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/FrontMainFrame.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/需求边界" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/ExamJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/sql/commands.sql" />
+        <option value="$PROJECT_DIR$/src/conf.properties" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConfigEntry.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/MCQQuestionInfo.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/services/data/ExamQuestionJDBCDAO.java" />
+        <option value="$PROJECT_DIR$/src/fr/epita/quiz/launcher/FrontFrame.java" />
+        <option value="$PROJECT_DIR$/sql/test.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="440" />
+    <option name="width" value="1280" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QuizTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560350176752" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.epita.quiz.launcher" />
+      <recent name="fr.epita.quiz.services.data" />
+      <recent name="fr.epita.quiz.exception" />
+      <recent name="fr.epita.quiz.services.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2019s1fund-group2-master\QuizTest\QuizTest\sql" />
+      <recent name="D:\2019s1fund-group2-master\QuizTest\QuizTest\src\fr\epita\quiz\launcher" />
+      <recent name="D:\2019s1fund-group2-master\QuizTest\QuizTest\data" />
+      <recent name="$PROJECT_DIR$/src/fr/epita/quiz/launcher" />
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginFrame">
+    <configuration name="ExamQuestionJDBCDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.epita.quiz.services.data.ExamQuestionJDBCDAO" />
+      <module name="QuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.epita.quiz.services.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontMainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.epita.quiz.launcher.FrontMainFrame" />
+      <module name="QuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.epita.quiz.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.epita.quiz.launcher.LoginFrame" />
+      <module name="QuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.epita.quiz.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MCQQuestionInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.epita.quiz.launcher.MCQQuestionInfo" />
+      <module name="QuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.epita.quiz.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDFReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.epita.quiz.services.util.PDFReport" />
+      <module name="QuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.epita.quiz.services.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core-renderer支持中文换行.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/core-renderer支持中文换行.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="QuizTest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.ExamQuestionJDBCDAO" />
+        <item itemvalue="Application.MCQQuestionInfo" />
+        <item itemvalue="Application.PDFReport" />
+        <item itemvalue="Application.FrontMainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e71e7bff-26f4-4c31-94c4-ef7838be9d55" name="Default Changelist" comment="" />
+      <created>1559802833669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559802833669</updated>
+      <workItem from="1559802837665" duration="318000" />
+      <workItem from="1559803208622" duration="1172000" />
+      <workItem from="1559804503079" duration="1084000" />
+      <workItem from="1559806547202" duration="1684000" />
+      <workItem from="1559808726664" duration="1603000" />
+      <workItem from="1559810569461" duration="1585000" />
+      <workItem from="1559813476234" duration="1467000" />
+      <workItem from="1559815299019" duration="1808000" />
+      <workItem from="1559992172259" duration="1575000" />
+      <workItem from="1559995821184" duration="505000" />
+      <workItem from="1560134839311" duration="1594000" />
+      <workItem from="1560136654293" duration="1755000" />
+      <workItem from="1560138466632" duration="919000" />
+      <workItem from="1560147168382" duration="1775000" />
+      <workItem from="1560148985937" duration="1676000" />
+      <workItem from="1560150836694" duration="1724000" />
+      <workItem from="1560152664426" duration="1746000" />
+      <workItem from="1560154535662" duration="1768000" />
+      <workItem from="1560156440591" duration="1765000" />
+      <workItem from="1560158267156" duration="1823000" />
+      <workItem from="1560160257439" duration="974000" />
+      <workItem from="1560165673758" duration="1748000" />
+      <workItem from="1560167479042" duration="1765000" />
+      <workItem from="1560169305895" duration="1756000" />
+      <workItem from="1560171120947" duration="1741000" />
+      <workItem from="1560173525935" duration="774000" />
+      <workItem from="1560219303349" duration="1848000" />
+      <workItem from="1560221422145" duration="1738000" />
+      <workItem from="1560223273191" duration="606000" />
+      <workItem from="1560225332082" duration="303000" />
+      <workItem from="1560232742018" duration="1700000" />
+      <workItem from="1560234582307" duration="1754000" />
+      <workItem from="1560236489403" duration="1557000" />
+      <workItem from="1560238334121" duration="1754000" />
+      <workItem from="1560240168451" duration="1629000" />
+      <workItem from="1560241990131" duration="1490000" />
+      <workItem from="1560244647180" duration="53000" />
+      <workItem from="1560252670651" duration="1202000" />
+      <workItem from="1560254188149" duration="1718000" />
+      <workItem from="1560256024017" duration="1128000" />
+      <workItem from="1560268100748" duration="1427000" />
+      <workItem from="1560270138296" duration="1108000" />
+      <workItem from="1560272112271" duration="1211000" />
+      <workItem from="1560322860816" duration="324000" />
+      <workItem from="1560329417167" duration="565000" />
+      <workItem from="1560338580947" duration="436000" />
+      <workItem from="1560348320084" duration="1177000" />
+      <workItem from="1560352352742" duration="13247000" />
+      <workItem from="1560608897470" duration="33353000" />
+      <workItem from="1560697668664" duration="416000" />
+      <workItem from="1560698234201" duration="1450000" />
+      <workItem from="1561474438173" duration="4447000" />
+      <workItem from="1561562086520" duration="11613000" />
+      <workItem from="1561654509254" duration="2243000" />
+      <workItem from="1561656815248" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129623000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22319035" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2602546" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290735" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32956383" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32956383" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31987077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24600638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290735" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32956383" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32956383" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQQuestion.java" />
+    <entry file="file://$PROJECT_DIR$/src/test33.txt" />
+    <entry file="file://$PROJECT_DIR$/src/C++.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Java.txt" />
+    <entry file="file://$PROJECT_DIR$/image/backtouxiang.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="7432" column="16" selection-start-line="7432" selection-start-column="16" selection-end-line="7432" selection-end-column="16" />
+          <folding>
+            <element signature="e#271883#271884#0" expanded="true" />
+            <element signature="e#271930#271931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1005" column="19" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="212" column="8" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/PDFReport.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1924" column="16" selection-start-line="1924" selection-start-column="16" selection-end-line="1924" selection-end-column="16" />
+          <folding>
+            <element signature="e#68197#68198#0" expanded="true" />
+            <element signature="e#68254#68255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Quiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/exception/CreateFailedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/awt/BorderLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="350" column="11" selection-start-line="350" selection-start-column="11" selection-end-line="350" selection-end-column="11" />
+          <folding>
+            <element signature="e#11133#11134#0" expanded="true" />
+            <element signature="e#11159#11160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="1096" selection-start-line="1096" selection-end-line="1096" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Answer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/MCQQuestionAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/OpenQuestionAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/datamodel/OpenQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/QuizJDBCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/util/PDFReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConnectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConfigurationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/StudentJDBCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="97" column="67" lean-forward="true" selection-start-line="97" selection-start-column="67" selection-end-line="97" selection-end-column="67" />
+          <folding>
+            <element signature="method#delete#0;class#StudentJDBCDAO#0" />
+            <element signature="method#queryStudentByNameAndPassword#0;class#StudentJDBCDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/MCQQuestionJDBCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1325">
+          <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/OpenQuestionJDBCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/OpenQuestionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="78" column="40" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="78" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/MCQQuestionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="154" column="45" lean-forward="true" selection-start-line="154" selection-start-column="45" selection-end-line="154" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/AdminFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-394">
+          <caret line="261" column="7" lean-forward="true" selection-start-line="261" selection-start-column="7" selection-end-line="261" selection-end-column="7" />
+          <folding>
+            <element signature="e#10889#12126#0" />
+            <element signature="e#13975#15385#0" />
+            <element signature="e#15388#15627#0" />
+            <element signature="e#15630#15965#0" />
+            <element signature="e#15968#16193#0" />
+            <element signature="e#16196#16357#0" />
+            <element signature="e#16360#16531#0" />
+            <element signature="e#16534#16706#0" />
+            <element signature="e#16709#17768#0" />
+            <element signature="e#17771#18890#0" />
+            <element signature="e#18893#19881#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conf.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="24" selection-start-line="17" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/util/ConfigEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <element signature="e#2062#2063#0" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+            <element signature="e#2127#2128#0" expanded="true" />
+            <element signature="e#2157#2158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/需求边界">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/FrontMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="method#timeThread#0;class#FrontMainFrame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Java.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/C++.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Java1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/C++1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/services/data/ExamQuestionJDBCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="method#queryQuestionTopics#0;class#ExamQuestionJDBCDAO#0" />
+            <element signature="method#queryOpenQuestionAllByTopics#0;class#ExamQuestionJDBCDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/FrontFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14781#14782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output.txt" />
+    <entry file="file://$PROJECT_DIR$/sql/mcqchoice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/answer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/studentgrade.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/student.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/epita/quiz/launcher/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+            <element signature="e#2417#2418#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/commands.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/openquestion.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/question.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/quiz.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/test.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>QuizTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>core-renderer支持中文换行</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
